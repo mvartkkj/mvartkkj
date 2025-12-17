@@ -4,7 +4,7 @@
 
 Desenvolvedor Full-Stack apaixonado por criar soluções robustas e escaláveis
 
-Sou um desenvolvedor com forte expertise em **TypeScript/JavaScript** e **C#**, especializado em sistemas financeiros e gerenciamento de empréstimos. Atualmente trabalhando em projetos desafiadores de integração de APIs e otimização de banco de dados.
+Sou um desenvolvedor com forte expertise em **TypeScript/JavaScript** e **C#**, especializado em sistemas financeiros. Atualmente trabalhando em projetos desafiadores de integração de APIs e otimização de banco de dados.
 
 ---
 
