@@ -11,10 +11,9 @@ Atualmente trabalhando no desenvolvimento de um **sistema financeiro (ERP)**
 </div>
 
 ---
-
-## Tecnologias que utilizo
-
 <div align="center">
+  
+## Tecnologias que utilizo
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,10 +31,9 @@ Atualmente trabalhando no desenvolvimento de um **sistema financeiro (ERP)**
 </div>
 
 ---
-
-## Estou aprendendo
-
 <div align="center">
+  
+## Estou aprendendo
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -45,10 +43,9 @@ Atualmente trabalhando no desenvolvimento de um **sistema financeiro (ERP)**
 </div>
 
 ---
-
-## Sobre Mim
-
 <div align="center">
+  
+## Sobre Mim
 
 **Formação**: Desenvolvimento de Sistemas e Redes de Computadores (Etec Amim Jundi)  
 **Cursando**: Ciência da Computação  
@@ -59,10 +56,9 @@ Atualmente trabalhando no desenvolvimento de um **sistema financeiro (ERP)**
 </div>
 
 ---
-
-## Experiência
-
 <div align="center">
+  
+## Experiência
 
 ### Sistemas Financeiros (ERP)
 Desenvolvimento de funcionalidades para gestão financeira empresarial
@@ -76,10 +72,9 @@ Trabalho com PostgreSQL e SQL Server
 </div>
 
 ---
-
-## Contato
-
 <div align="center">
+  
+## Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mvartkkj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.martins11@outlook.com)
