@@ -61,18 +61,6 @@ Atualmente trabalhando no desenvolvimento de um **sistema financeiro (ERP)**
 
 ---
 
-## Estatísticas GitHub
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvartkkj&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)](https://github.com/mvartkkj)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvartkkj&layout=compact&theme=tokyonight&card_width=445)](https://github.com/mvartkkj)
-
-</div>
-
----
-
 ## Experiência
 
 <div align="center">
