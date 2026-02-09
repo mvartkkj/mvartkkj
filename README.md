@@ -1,46 +1,67 @@
-# 👋 Bem-vindo ao meu GitHub
+# Bem-vindo ao meu GitHub
 
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00D4FF&center=false&width=500&lines=💻+Full-Stack+Developer;🎯+TypeScript+Specialist;🏦+Financial+Systems+Expert;🚀+Problem+Solver)](https://git.io/typing-svg)
+<div align="center">
 
-Desenvolvedor Full-Stack apaixonado por criar soluções robustas e escaláveis
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00D4FF&center=true&width=600&lines=Full-Stack+Developer+Junior;Financial+Systems;Learning+%26+Growing)](https://git.io/typing-svg)
 
-Sou um desenvolvedor com forte expertise em **TypeScript/JavaScript** e **C#**, especializado em sistemas financeiros. Atualmente trabalhando em projetos desafiadores de integração de APIs e otimização de banco de dados.
+Desenvolvedor Full-Stack Junior apaixonado por criar soluções robustas
 
----
+Atualmente trabalhando no desenvolvimento de um **sistema financeiro (ERP)**
 
-## 💼 Sobre Mim
-
-- 🎓 **Formação**: Desenvolvimento de Sistemas e Redes de Computadores (Etec Amim Jundi) | Cursando Ciência da Computação
-- 💻 **Especialidade**: Full-Stack Development | Financial Services | Database Optimization
-- 🚀 **Foco**: Arquitetura de software robusta, otimização de performance, integração de sistemas complexos
-- 📍 **Status**: Desenvolvedor Full-Stack ativo
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tecnologias que utilizo
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TSX](https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
-## 📊 Estatísticas
+## Estou aprendendo
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+## Sobre Mim
+
+<div align="center">
+
+**Formação**: Desenvolvimento de Sistemas e Redes de Computadores (Etec Amim Jundi)  
+**Cursando**: Ciência da Computação  
+**Posição Atual**: Full-Stack Developer Junior  
+**Projeto Atual**: Desenvolvimento de ERP Financeiro  
+**Foco**: Backend, Integração de APIs, Banco de Dados
+
+</div>
+
+---
+
+## Estatísticas GitHub
 
 <div align="center">
 
@@ -52,63 +73,39 @@ Sou um desenvolvedor com forte expertise em **TypeScript/JavaScript** e **C#**, 
 
 ---
 
-## 🎯 Áreas de Expertise
+## Experiência
 
-### 🏦 Serviços Financeiros
-Experiência em desenvolvimento de sistemas complexos para gerenciamento de empréstimos e crédito, integrações bancárias e processamento de transações.
+<div align="center">
 
-### 🔗 Integração de APIs
-Consumo e desenvolvimento de APIs REST robustas, implementação de autenticação segura, tratamento de erros e validação de dados.
+### Sistemas Financeiros (ERP)
+Desenvolvimento de funcionalidades para gestão financeira empresarial
 
-### 🗄️ Otimização de Banco de Dados
-Design de schemas otimizados, query optimization, índices estratégicos, e gerenciamento de constraints.
+### Integração de APIs
+Consumo e desenvolvimento de APIs REST
 
-### 🏗️ Arquitetura de Software
-Padrões de design (Singleton, Factory, Observer), SOLID principles, clean code, estruturação de projetos escaláveis.
+### Banco de Dados
+Trabalho com PostgreSQL e SQL Server
 
-### 🔍 Debugging e Testes
-Abordagem pragmática na resolução de problemas, testes unitários e integração, validação rigorosa.
+</div>
 
 ---
 
-## 🚀 Principais Projetos
+## Contato
 
-Confira meus repositórios para ver exemplos práticos de:
-- ✅ Aplicações Full-Stack com TypeScript/React + C#/.NET
-- ✅ Integração com bancos de dados PostgreSQL e SQL Server
-- ✅ Desenvolvimento com Docker para containerização
-- ✅ APIs REST bem estruturadas com tratamento robusto de erros
-- ✅ Soluções para sistemas financeiros
-
----
-
-## 💡 Metodologia
-
-- **Pragmatismo**: Soluções eficientes que entregam valor
-- **Qualidade**: Código limpo, bem testado e documentado
-- **Colaboração**: Trabalho em equipe com code reviews rigorosos
-- **Aprendizado Contínuo**: Sempre explorando novas tecnologias e padrões
-
----
-
-## 📫 Conecte-se Comigo
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mvartkkj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.martins11@outlook.com)
 
----
-
-## 🌟 Filosofia
-
-> "Escrevo código que não apenas funciona, mas que resolve problemas reais de forma elegante e escalável."
+</div>
 
 ---
 
 <div align="center">
 
-**Visitando meu GitHub?** 👀 Deixa uma ⭐ se achar algo interessante!
+### Em constante evolução
 
-Últimas atualizações: Trabalhando em otimizações de banco de dados e exploração de padrões de design avançados.
+**Visitando meu GitHub?** Deixa uma estrela nos projetos!
 
 </div>
