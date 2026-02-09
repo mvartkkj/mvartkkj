@@ -1,6 +1,6 @@
-# Bem-vindo ao meu GitHub
-
 <div align="center">
+  
+# Bem-vindo ao meu GitHub
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00D4FF&center=true&width=600&lines=Full-Stack+Developer+Junior;Financial+Systems;Learning+%26+Growing)](https://git.io/typing-svg)
 
